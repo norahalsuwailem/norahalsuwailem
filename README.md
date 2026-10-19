@@ -31,4 +31,8 @@ I like turning messy data into clear answers — and making sure the people who 
 
 ---
 
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Norah%20Alsuwailem-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norahalsuwaiilem)
+
 *Open to Data Science, Business Intelligence and Product Management opportunities.*
