@@ -17,7 +17,7 @@ I like turning messy data into clear answers — and making sure the people who 
 
 ### 🛠️ Tools & skills
 
-`Python` `SQL` `Pandas` `Jupyter / Colab` `Streamlit` `Data Visualization` `Dashboards` `Figma` `Git & GitHub`
+`Python` `SQL` `Pandas` `Plotly` `Jupyter / Colab` `Streamlit` `Data Visualization` `Dashboards` `Figma` `Git & GitHub`
 
 ---
 
@@ -25,6 +25,7 @@ I like turning messy data into clear answers — and making sure the people who 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**Feathers & Borders — ريش بلا حدود 🦜**](https://github.com/norahalsuwailem/parrot-trade-eda) | 50 years of the global live-parrot trade: I joined the CITES trade database (219k records) with AVONET bird traits, fixed 25 taxonomy mismatches (match rate 88.7% → 99.99%), and found that wild-caught trade fell from ~51% to under 5% after the US and EU bans. Includes an interactive Arabic dashboard with illustrated species cards. | Python, Pandas, Plotly, Streamlit |
 | [**SAQAI — سُقاي 💧**](https://github.com/norahalsuwailem/saqai) | Smart multi-zone irrigation for Expo 2030 Riyadh: ESP32 soil sensors per zone, ML rain forecast 3 hours ahead, instant rain cutoff and a live Arabic dashboard. Built with a mechatronics team, where I was the Data Science & AI member. Selected among the 8 distinguished projects in the Expo 2030 Riyadh challenge (Tuwaiq Academy). | ESP32, Machine Learning, JavaScript |
 | [**Data Detective 🕵️**](https://github.com/norahalsuwailem/Python-Project-Unit-1---Data-Detective) | Team game where players find and fix hidden errors in salary data before a misleading report reaches management. I built the datasets, hidden errors, expected actions and difficulty levels. | Python, Streamlit |
 | [**Data Visualization & Storytelling**](https://github.com/norahalsuwailem/SDAIA-Data-Visualization) | Hands-on labs on visualizing data and communicating insights clearly. | Python, Jupyter |
